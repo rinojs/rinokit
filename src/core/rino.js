@@ -1,5 +1,5 @@
 import { getValueFromData } from './value-getter.js'
-
+import { replaceEvents } from './event-syntax.js'
 export default class Rino
 {
     constructor()
@@ -56,7 +56,7 @@ export default class Rino
         }
 
         const result = document.createElement("div");
-        result.innerHTML = resultText;
+        result.innerHTML = await replaceEvents(resultText);
         if (componentId) result.setAttribute('id', componentId);
 
         return result;
