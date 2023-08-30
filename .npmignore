@@ -1,0 +1,8 @@
+src/
+.git/
+.editorconfig
+.gitignore
+jest.config.js
+rollup.config.js
+public/
+depdist/
