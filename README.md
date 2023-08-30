@@ -18,9 +18,9 @@ npm i rinokit
 
 ## 📢 Notice
 
-### 👍 For version v0.0.1
+### 👍 For people who use < v0.0.2
 
-I recommend install rinokit by `npm i rinokit` until we add template for `npm create rino`.
+From v0.0.2 we have added `@event` so `@event` will turn into `onevent`. You can still use `onevent` as well.
 
 ## 📖 Documentation
 

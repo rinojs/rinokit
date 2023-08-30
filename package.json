@@ -1,6 +1,6 @@
 {
   "name": "rinokit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fast learning, preprocessing, intuitive web framework. Runtime library.",
   "main": "dist/rinokit.min.js",
   "scripts": {
