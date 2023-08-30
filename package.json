@@ -1,0 +1,35 @@
+{
+  "name": "rinokit",
+  "version": "0.0.1",
+  "description": "Fast learning, preprocessing, intuitive web framework. Runtime library.",
+  "main": "dist/rinokit.min.js",
+  "scripts": {
+    "pack": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinojs/rinokit.git"
+  },
+  "keywords": [
+    "rinokit",
+    "rino",
+    "frontend-development",
+    "components",
+    "templating",
+    "templating-tool",
+    "rinojs",
+    "webframework"
+  ],
+  "type": "module",
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rinojs/rinokit/issues"
+  },
+  "homepage": "https://rinojs.org/",
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-terser": "^0.4.3",
+    "rollup": "^3.28.1"
+  }
+}
