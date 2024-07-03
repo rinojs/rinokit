@@ -29,22 +29,6 @@ From v0.0.2 we have added `@event` so `@event` will turn into `onevent`. You can
 
 ## 👨‍👩‍👧‍👦 **Sponsors**
 
-### 🔥 **IMMORTAL SUPPORTER**
-
-### 👼 **DIVINE SUPPORTER**
-
-### 🎻 **ANCIENT SUPPORTER**
-
-### ⚔ **LEGEND SUPPORTER**
-
-### 🌲 **ARCHON SUPPORTER**
-
-### 🍀 Crusader Supporter
-
-### ☘ Guardian Supporter
-
-### 🌱 Herald Supporter
-
 ## 💪 Support Rino!
 
 ### 👼 Become a Sponsor
